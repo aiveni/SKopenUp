@@ -58,7 +58,7 @@ var TREE_ITEMS =
 			[' ERANSKINAK',null,
 				['Memoriaren eranskinak', '../Proyecto/Memoria-Anexos/1_documentacion-entrada.htm',
 				['A1 - Sarrerako Dokumentazioa', null,
-				['A1.1 - Sarrerako dokumnetazioa', '../proiektua/2_eranskinak/1_memoriaren_eranskinak/A1_sarrerako_dokumentazioa/Sarrerako_dokumentazioa.pdf' ],
+				['A1.1 - Sarrerako dokumnetazioa', '../Proyecto/A1.1.pdf' ],
             	['A1.2 - ProWF 2020', 'https://juletx.github.io/ProWF'],
             	['A1.3 - BETRADOK 2019', 'https://juletx.github.io/BETRADOK'],
 				['A1.4 - OSALAGUN 2021', 'http://158.227.112.102/software-process/CURSO_MATERIALES/2021_OSALAGUN/index.html'],
