@@ -1,11 +1,12 @@
 /* --- menu items --- */
 var TREE_ITEMS = 
 [
-	['GIMEX PROIEKTUA', '../main/home_page.htm',
-			['Laburpena', '../Proyecto/Memoria/resumen'],			
-			['Aurkibide orokorra', '../Proyecto/Memoria/indice'],
-			['Aurkezpena', '../Proyecto/Aurkezpena.ppt'],
-			['MEMORIA','../Proyecto/Memoria/1_0_memoria.htm',
+	['ENERGY AID SOFTWARE', '../main/home_page.htm',
+			['Portada', '../Proyecto/portada.html'],
+			//['Laburpena', '../Proyecto/Memoria/resumen'],			
+			//['Aurkibide orokorra', '../Proyecto/Memoria/indice'],
+			//['Aurkezpena', '../Proyecto/Aurkezpena.ppt'],
+			/*['MEMORIA','../Proyecto/Memoria/1_0_memoria.htm',
 			 	['Portada', '../Proyecto/Memoria/portada'],
 				['Sarrera', '../Proyecto/Memoria/introduccion'],
 				['Helburua', '../Proyecto/Memoria/objeto'],
@@ -52,16 +53,43 @@ var TREE_ITEMS =
 					 ['Denborazko planifikazioa', '../Proyecto/Memoria/previsiones_construccion3'],
 					 ['Aurrekontua', '../Proyecto/Memoria/previsiones_construccion4'],
 	                     ]
-    	                     ],
+    	                     ],*/
                           
-			['MEMORIAREN ERANSKINAK',null,
-				['Sarrerako dokumentazioa', '../Proyecto/Memoria-Anexos/1_documentacion-entrada.htm'],
+			[' ERANSKINAK',null,
+				['Memoriaren eranskinak', '../Proyecto/Memoria-Anexos/1_documentacion-entrada.htm',
+				['A1 - Sarrerako Dokumentazioa', null,
+				['A1.1 - Sarrerako dokumnetazioa', '../proiektua/2_eranskinak/1_memoriaren_eranskinak/A1_sarrerako_dokumentazioa/Sarrerako_dokumentazioa.pdf' ],
+            	['A1.2 - ProWF 2020', 'https://juletx.github.io/ProWF'],
+            	['A1.3 - BETRADOK 2019', 'https://juletx.github.io/BETRADOK'],
+				['A1.4 - OSALAGUN 2021', 'http://158.227.112.102/software-process/CURSO_MATERIALES/2021_OSALAGUN/index.html'],
+           		 ['A1.5 - Metodologiak', null,
+              		['A1.5.1 - OpenUp 1.0', 'http://www.utm.mx/~caff/doc/OpenUPWeb/index.htm'],
+			  		['A1.5.2 - RUP metodologia (proiektu txikientzako)', 'http://158.227.112.102/software-process/CURSO_MATERIALES/SmallProjects/index.htm'],
+            	],
+            	['A1.6 - CCII Arauak', null,
+              		['A1.6.1 - CCII-N2016-02', '../Proyecto/2_eranskinak/1_memoriaren_eranskinak/A1_sarrerako_dokumentazioa/CCII-N2016-02.pdf'],
+              		['A1.6.2 - CCII-UNE 157801', '../Proyecto/2_eranskinak/1_memoriaren_eranskinak/A1_sarrerako_dokumentazioa/CCII-UNE 157801.pdf'],
+              		['A1.6.3 - CCII Txantiloia', '../Proyecto/2_eranskinak/1_memoriaren_eranskinak/A1_sarrerako_dokumentazioa/CCII Txantiloia.pdf'],
+            	],
+				['A1.7 - IEC 62304', '../Proyecto/2_eranskinak/1_memoriaren_eranskinak/A1_sarrerako_dokumentazioa/IEC62304.pdf'],
+        ],
+				['A2 - Analisi eta Diseinua',null,
+				['A2.1 Arkitektura',null,
+				/*[' Arkitektura Koadernoa I','../proiektua/2_eranskinak/1_memoriaren_eranskinak/A2_analisi_diseinua/1_arkitektura/1_arkitektura_koadernoa_1.pdf'],
+				[' Arkitektura Koadernoa II','../proiektua/2_eranskinak/1_memoriaren_eranskinak/A2_analisi_diseinua/1_arkitektura/2_arkitektura_koadernoa_2.pdf']
+				]*/
+				],
+				['A2.2 - Diseinua', null,],
+			]
+	],
+
+
 				['Sistemaren espezifikazioa','../Proyecto/Memoria-Anexos/2_especificacion-sistema.htm',
 					['Betekizunak', null,
 				         	['Glosategia', '../Proyecto/Glosarioa.pdf'],
 				         	['Ikuspegia', '../Proyecto/Ikuspegia.pdf'],
 				         	['Inplikatuen eskaerak', '../Proyecto/Eskaerak.pdf'],
-				         	['Azalpen gehigarriak', '../Proyecto/Memoria-Anexos/Especificacion del sistema/Requisitos/Especificaciones suplementarias.html'],
+				         	/*['Azalpen gehigarriak', '../Proyecto/Memoria-Anexos/Especificacion del sistema/Requisitos/Especificaciones suplementarias.html'],*/
 				         	['Erabilpen kasuen eredua', null,
 							 	['Erabilpen kasua - Erregistratu', '../Proyecto/Erregistratu.pdf'],
 								['Erabilpen kasua - Saioa Hasi', '../Proyecto/Saioa_Hasi.pdf'],
@@ -70,8 +98,8 @@ var TREE_ITEMS =
 								['Erabilpen kasua - Datuak Ikusi', '../Proyecto/Datuak_Ikusi.pdf'],
 							]
 				    ]
-				],
-				['Sistemaren analisia eta diseinua', '../Proyecto/Memoria-Anexos/4_analisis-diseno.htm',
+				]]
+				/*['Sistemaren analisia eta diseinua', '../Proyecto/Memoria-Anexos/4_analisis-diseno.htm',
 				         ['Softwarearen arkitekturaren dokumentazioa', '../Proyecto/Memoria-Anexos/Analisis y diseno del sistema/Documento de arquitectura de software.html'],
 				         ['Analisi eredua', '../Proyecto/Memoria-Anexos/Analisis y diseno del sistema/Modelo de analisis.html'],
 				         ['Erabiltzaileen interfazearen prototipoa', '../Proyecto/Memoria-Anexos/Analisis y diseno del sistema/Prototipo de interfaz de usuario.html'],
@@ -115,9 +143,9 @@ var TREE_ITEMS =
 					['Edukia ', '../Proyecto/Memoria-Anexos/Presupuesto/Contenido.html']
 						]
 					],
-				],                         
+				],        */                 
 
-			['PROIEKTUAREN BARNE ELABORAZIOA',null,
+			/*['PROIEKTUAREN BARNE ELABORAZIOA',null,
 				['ELABORAZIOAREN MEMORIA', '../Proyecto/Memoria-Elaboracion/Memoria/elaborazioaren_memoria.htm',
 					 ['Sarrera', '../Proyecto/Memoria-Elaboracion/Memoria/introduccion'],
 					 ['RUP bidezko garapena', null,
@@ -143,6 +171,7 @@ var TREE_ITEMS =
             			],
 			   		],
 				
-			['RUP - TXANTILOIAK','../RUP_templates/RUP_templates.html'],
+			['RUP - TXANTILOIAK','../RUP_templates/RUP_templates.html'],*/
 			
-			];
+			//];
+				]];
