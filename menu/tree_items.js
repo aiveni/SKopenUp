@@ -1,12 +1,12 @@
 /* --- menu items --- */
 var TREE_ITEMS = 
 [
-	['ENERGY AID SOFTWARE', '../main/home_page.htm',
-			['Portada', '../Proyecto/portada.html'],
-			//['Laburpena', '../Proyecto/Memoria/resumen'],			
-			//['Aurkibide orokorra', '../Proyecto/Memoria/indice'],
-			//['Aurkezpena', '../Proyecto/Aurkezpena.ppt'],
-			/*['MEMORIA','../Proyecto/Memoria/1_0_memoria.htm',
+	['ENERGY AID SOFTWARE', '../Proyecto/0_1_portada.pdf',
+			['Portada', '../Proyecto/0_1_portada.pdf'],
+			['Laburpena', '../Proyecto/Memoria/resumen'],			
+			['Aurkibide orokorra', '../Proyecto/Memoria/indice'],
+			['Aurkezpena', '../Proyecto/Aurkezpena.ppt'],
+			['MEMORIA','../Proyecto/Memoria/1_0_memoria.htm',
 			 	['Portada', '../Proyecto/Memoria/portada'],
 				['Sarrera', '../Proyecto/Memoria/introduccion'],
 				['Helburua', '../Proyecto/Memoria/objeto'],
@@ -53,7 +53,7 @@ var TREE_ITEMS =
 					 ['Denborazko planifikazioa', '../Proyecto/Memoria/previsiones_construccion3'],
 					 ['Aurrekontua', '../Proyecto/Memoria/previsiones_construccion4'],
 	                     ]
-    	                     ],*/
+    	                     ],
                           
 			[' ERANSKINAK',null,
 				['Memoriaren eranskinak', '../Proyecto/Memoria-Anexos/1_documentacion-entrada.htm',
@@ -98,7 +98,7 @@ var TREE_ITEMS =
 								['Erabilpen kasua - Datuak Ikusi', '../Proyecto/Datuak_Ikusi.pdf'],
 							]
 				    ]
-				]]
+				]
 				/*['Sistemaren analisia eta diseinua', '../Proyecto/Memoria-Anexos/4_analisis-diseno.htm',
 				         ['Softwarearen arkitekturaren dokumentazioa', '../Proyecto/Memoria-Anexos/Analisis y diseno del sistema/Documento de arquitectura de software.html'],
 				         ['Analisi eredua', '../Proyecto/Memoria-Anexos/Analisis y diseno del sistema/Modelo de analisis.html'],
@@ -144,8 +144,8 @@ var TREE_ITEMS =
 						]
 					],
 				],        */                 
-
-			/*['PROIEKTUAREN BARNE ELABORAZIOA',null,
+			]]
+			,['PROIEKTUAREN BARNE ELABORAZIOA',null,
 				['ELABORAZIOAREN MEMORIA', '../Proyecto/Memoria-Elaboracion/Memoria/elaborazioaren_memoria.htm',
 					 ['Sarrera', '../Proyecto/Memoria-Elaboracion/Memoria/introduccion'],
 					 ['RUP bidezko garapena', null,
@@ -171,7 +171,7 @@ var TREE_ITEMS =
             			],
 			   		],
 				
-			['RUP - TXANTILOIAK','../RUP_templates/RUP_templates.html'],*/
+			['RUP - TXANTILOIAK','../RUP_templates/RUP_templates.html']
 			
 			//];
-				]];
+				];
