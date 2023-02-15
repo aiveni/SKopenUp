@@ -1,7 +1,7 @@
 /* --- menu items --- */
 var TREE_ITEMS = [
 
-	[' BETRADOK proiektua', '',
+	[' Energy aid software proiektua', '',
 		[' Portada', '../Proyecto/0_1_portada.pdf'],
 		[' Laburpen Posterra', '../proiektua/4_posterra.htm'],
 		[' Aurkezpena', '../proiektua/LegardaJon-azkena.pptx'],
@@ -109,7 +109,7 @@ var TREE_ITEMS = [
 		]
 	],
 
-	['BETRADOK: Barne Kudeaketa', '../proiektua/3_barne_kudeaketa.htm',
+	['Energy aid software: Barne Kudeaketa', '../proiektua/3_barne_kudeaketa.htm',
 		[' Proiektuaren Barne Kudeaketa','../proiektua/3_proiektuaren_kudeaketa/0_proiektuaren_kudeaketa.pdf',
 			[' Iterazio Plana','../proiektua/3_proiektuaren_kudeaketa/1_iterazio_plana.pdf'],
 			[' Proiektu Plana','../proiektua/3_proiektuaren_kudeaketa/2_proiektu_plana.pdf'],
