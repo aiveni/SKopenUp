@@ -46,7 +46,7 @@ var TREE_ITEMS = [
 				[' Arkitektura','../proiektua/2_eranskinak/1_memoriaren_eranskinak/A2_analisi_diseinua/1_arkitektura/0_arkitektura.pdf',
 					[' Arkitektura Koadernoa I','../Proyecto/2_eranskinak/1_memoriaren_eranskinak/A2_analisi_diseinua/1_arkitektura/1_arkitektura_koadernoa_1.pdf'],
 					[' Arkitektura Koadernoa II','../Proyecto/2_eranskinak/1_memoriaren_eranskinak/A2_analisi_diseinua/1_arkitektura/2_arkitektura_koadernoa_2.pdf']
-				]
+				],['A2.1 Analisi Eredua','../Proyecto/2/index.html'],['A2.2 Diseinua','../Proyecto/2/index.html']
 			],
 			[' A3 - Tamaina eta Esfortzu Estimazioa','../proiektua/2_eranskinak/1_memoriaren_eranskinak/A3_tamaina_esfortzu_estimazioa/0_A3_tamaina_esfortzu_estimazioak.pdf'],
 			[' A4 - Kudeaketa Plana','../proiektua/2_eranskinak/1_memoriaren_eranskinak/A4_kudeaketa_plana/0_kudeaketa_plana.pdf',
@@ -109,7 +109,7 @@ var TREE_ITEMS = [
 			[' Datuak Ikusi','../Proyecto/ErabilpenKasuak/Datuak_Ikusi.pdf'],
 			[' Mantenimendua','../Proyecto/ErabilpenKasuak/Mantenimendua.pdf']
 		],
-			[' Erabilpen Kasuen Eredua','../proiektua/2_eranskinak/2_sistemaren_espezifikazioa/4_erabilpen_kasuen_eredua.pdf']
+			[' Erabilpen Kasuen Eredua','../Proyecto/1/index.html']
 		],
 		
 		[' Aurrekontua','../proiektua/2_eranskinak/3_aurrekontua/0_aurrekontua.pdf',
