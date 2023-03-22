@@ -43,10 +43,12 @@ var TREE_ITEMS = [
             ],
 			['A1.7 - IEC 61724-1', '../Proyecto/Eranskinak/IEC.pdf']],
 			[' A2 - Analisi eta Diseinua','../Proyecto/2_eranskinak/1_memoriaren_eranskinak/A2_analisi_diseinua/0_A2_analisi_diseinua.pdf',
-				[' Arkitektura','../proiektua/2_eranskinak/1_memoriaren_eranskinak/A2_analisi_diseinua/1_arkitektura/0_arkitektura.pdf',
+				[' A2.1 Arkitektura','../proiektua/2_eranskinak/1_memoriaren_eranskinak/A2_analisi_diseinua/1_arkitektura/0_arkitektura.pdf',
 					[' Arkitektura Koadernoa I','../Proyecto/2_eranskinak/1_memoriaren_eranskinak/A2_analisi_diseinua/1_arkitektura/1_arkitektura_koadernoa_1.pdf'],
 					[' Arkitektura Koadernoa II','../Proyecto/2_eranskinak/1_memoriaren_eranskinak/A2_analisi_diseinua/1_arkitektura/2_arkitektura_koadernoa_2.pdf']
-				],['A2.1 Analisi Eredua','../Proyecto/2/index.html'],['A2.2 Diseinua','../Proyecto/2/index.html']
+				],
+				['A2.2 Diseinua','../Proyecto/2/index.html',["Bizagiren 1.tailerraren AMIA","../Proyecto/Bizagiren 1.tailerraren AMIA.pdf"]]
+				,['A2.3 Analisi Eredua','../Proyecto/2/index.html']
 			],
 			[' A3 - Tamaina eta Esfortzu Estimazioa','../proiektua/2_eranskinak/1_memoriaren_eranskinak/A3_tamaina_esfortzu_estimazioa/0_A3_tamaina_esfortzu_estimazioak.pdf'],
 			[' A4 - Kudeaketa Plana','../proiektua/2_eranskinak/1_memoriaren_eranskinak/A4_kudeaketa_plana/0_kudeaketa_plana.pdf',
