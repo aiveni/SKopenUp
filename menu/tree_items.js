@@ -154,6 +154,10 @@ var TREE_ITEMS = [
 					['2019.06.17','../proiektua/3_proiektuaren_kudeaketa/8_aktak/akta_20190617.pdf'],
 					['2019.07.04','../proiektua/3_proiektuaren_kudeaketa/8_aktak/akta_20190704.pdf']
 				]
+		],
+		[' Ingurunea','',
+			[' Proiektuaren bizi-zikloa', '../Proyecto/Project Lifecycle.bpm'],
+			[' Lanaren planifikazioa', '']
 		]
 	]					
 ];
