@@ -156,8 +156,9 @@ var TREE_ITEMS = [
 				]
 		],
 		[' Ingurunea','',
-			[' Proiektuaren bizi-zikloa', '../Proyecto/Project Lifecycle.bpm'],
-			[' Lanaren planifikazioa', '']
+			['1.Garapen Prozesuaren Definizioa (BPMN)', '../Proyecto/Project Lifecycle.bpm'],
+			['2.Garapen Proezesuaren Planifikazioa','../Proyecto/Planifikazioa.pdf'],
+			['3.Garapen Prozesua (pdf)', '../Proyecto/diagramak.pdf']
 		]
 	]					
 ];
